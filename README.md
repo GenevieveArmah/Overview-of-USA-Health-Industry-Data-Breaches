@@ -45,7 +45,7 @@ Theft and Loss together account for nearly 75% of breaches, suggesting that phys
 
  Larger states like Texas and California with higher healthcare activity and larger populations are more vulnerable to breaches, likely due to higher data volume and processing activities.
 
- The spike in 2010 (Breach Trend) suggests a pivotal event or regulation change that could have influenced reporting or actual breach occurrences. The steady decline post-2010 may reflect improved security measures but highlights that vulnerabilities persist.
+ The spike in 2013 (Breach Trend) suggests a pivotal event or regulation change that could have influenced reporting or actual breach occurrences. The steady decline post-2010 may reflect improved security measures but highlights that vulnerabilities persist.
 
  Certain business associates are recurring contributors to breaches, indicating a need for stricter third-party compliance and risk management protocols.
 
@@ -64,7 +64,7 @@ Focus on State-Level Interventions: Allocate additional resources to states like
 Encourage state governments to develop localized cybersecurity awareness campaigns and support healthcare providers in adopting best practices.
 Monitor and Respond to Emerging Trends:
 
-Investigate the factors behind the 2010 spike and leverage lessons learned to anticipate future vulnerabilities. Continuously monitor the breach landscape to adapt security measures to evolving threats.
+Investigate the factors behind the 2013 spike and leverage lessons learned to anticipate future vulnerabilities. Continuously monitor the breach landscape to adapt security measures to evolving threats.
 
 Increase Awareness and Training: Conduct regular training for healthcare staff/professionals on data security practices and breach prevention.
 Emphasize the importance of reporting suspicious activities and implementing incident response protocols.
