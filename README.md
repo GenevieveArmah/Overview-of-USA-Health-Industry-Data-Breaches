@@ -2,7 +2,7 @@
 
 This dashboard provides a detailed analysis of data breaches within the U.S. healthcare industry. It is designed to help stakeholders including healthcare providers, policymakers, cybersecurity professionals, and compliance teams understand the scope, trends, and causes of data breaches affecting individuals and entities. The goal is to support data-driven decisions for strengthening data protection measures and minimizing risks
 
-Data Source: Kaggle
+Data Source: Kaggle https://www.kaggle.com/datasets/alukosayoenoch/cyber-security-breaches-data
 
 Summary Metrics:
 
